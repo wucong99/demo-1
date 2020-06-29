@@ -2,24 +2,9 @@
 public class Test {
 	
 	public static void main(String[] args) throws InterruptedException {
-		
-//		int i = 18;
-//	
-//		long startTime = System.currentTimeMillis();
-//	
-//		long endTime = System.currentTimeMillis();
-//		System.out.println("时间："+(endTime - startTime));
-//		
 	Solution solution = new Solution();
 	System.out.println(solution.isHappy(1));
-//		while (i!=1) {
-//			int num = i/10;
-//			int t = i%10;
-//			i=num*num+t*t;
-//			System.out.println();
-//		}
-//		System.out.println(i);
-		
+		//123132
 	}
 }
 
