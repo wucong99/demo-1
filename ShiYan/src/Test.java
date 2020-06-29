@@ -1,6 +1,6 @@
 
 public class Test {
-	//1141211
+	//114121122
 	public static void main(String[] args) throws InterruptedException {
 	Solution solution = new Solution();
 	System.out.println(solution.isHappy(1));
